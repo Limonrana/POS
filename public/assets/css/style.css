@@ -1,0 +1,26 @@
+/*
+==========================
+My Own CSS for Admin Panel
+==========================
+*/
+
+.toggle-icon-wrapper {
+    padding-left: 0 !important;
+    margin-right: 0 !important;
+}
+.navbar-brand {
+    font-size: 1.4rem !important;
+}
+
+li.nav-item.my-margin {
+    margin-left: 1.8em;
+}
+
+label.error {
+    color: red;
+}
+
+.circle-dashed {
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+}
